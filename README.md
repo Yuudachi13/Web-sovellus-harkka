@@ -6,7 +6,7 @@ Web-sovellusten perusteet IN00DL12-3003 (kevät 2024)
 sisältöä
 
 ### Ohjeet jolla viimeisimmät pelit voidaan päivittää ja grand exhange toimii
-1. Lataa chippi tiedosto ja pura tämä jonnekkin
+1. Lataa tiedostot koneella ja pura johonkin kansioon.
 2. Lataa [node](https://nodejs.org/en)
 3. Avaa js tiedosto esimerkiksi Git Bashillä
 4. Suorita ***npm install*** joka asentaa moduulit
