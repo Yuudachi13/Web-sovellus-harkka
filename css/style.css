@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #38353f;
+    margin: 0;
+    
+   
+}
+header {
+    background-color: #2d293f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    margin: 0px;
+    
+   
+}
+
+ul {
+    list-style-type: none;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    
+}
+ul :hover{
+    background-color: rgb(46, 46, 117);
+    color: white;
+}
+/*ul :active{
+    background-color: #e00a0a;
+    color: black;
+}
+*/
+li {
+
+    display: inline-block;
+    margin-right: 150px;
+}
+li a {
+        
+        color: #b84545;
+
+}
+footer {
+    background-color: #49455e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    
+    color: #ffee00;
+    margin-bottom: 10px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+h2 {
+    color:#e00a0a;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.win {
+    color:#1efc1efd !important;
+    
+}
+
+.lost {
+   
+    color: #e00a0a;
+}
+
+img {
+    max-width: 70px;
+    height: auto;
+    
+}
+
+
+#tiedot-tähän {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    
+       
+}
+.konkka{
+    display: flex;
+    
+}
+
+
+#runetekstit{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+
+}
+#runepalkki {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: fit-content;
+      
+}

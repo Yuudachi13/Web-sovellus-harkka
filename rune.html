@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Grand exchange price tracker</title>
+</head>
+
+<body>
+    <header>
+    <ul>
+      
+        <li><a href="./pelit.html">Viimeiset dota pelit</a></li>
+        <li><a href="./rune.html">Grand exchange</a></li>
+        </ul>
+    </header>
+        
+
+            <div id="runepalkki">
+                <h1> Katso itemin hinta</h1>
+                <button onclick="testihomma()"> Näytä hinta</button>
+                <input placeholder="Kirjota itemin ID" id="iteminID">
+                <div id="runetekstit">
+                    <img src="itemiKuva" id="runekuva">
+                    <p> Itemin nimi: <span id=itemName></span></p>
+                    <p> Tämän hetken hinta: <span id=currentPrice></span></p>
+                    <p> Muutosta eiliseen: <span id=priceChange></span></p>
+                
+            </div>
+        </div>
+        <footer> 
+            <div id="footer"> Web-sovellus harkkatyö Pasi Puhakka </div>
+          </footer>
+        <script src="js/runehinta.js"></script>
+    </body>
+
+</html>
