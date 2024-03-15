@@ -3,8 +3,9 @@ Web-sovellusten perusteet IN00DL12-3003 (kevät 2024)
 
 ## Sivuston kuvaus
 
-Web-sovellus kurssilla lopuksi piti tehdä jokin webbisivu niin nyt tehtiin tälläinen. ***Dota pelit*** sivulla on ideana, että se pilkkoo
-puppeteeriä käyttäen toiselta sivulta tietoja tähän sivulle.
+Web-sovellus kurssilla lopuksi piti tehdä jokin webbisivu niin nyt tehtiin tälläinen.
+
+***Dota pelit*** sivulla on ideana, että se pilkkoo puppeteeriä käyttäen toiselta sivulta tietoja tähän sivulle.
 
 ***Grand Exchange*** on taas Oldschool runescapen open api:a käyttävä sivu jolla voidaan hakea itemien hintoja/tietoja niiden ID:llä.
 
