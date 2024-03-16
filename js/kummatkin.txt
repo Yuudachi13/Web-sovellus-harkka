@@ -1,3 +1,7 @@
+Terrorblade,Won Match,Normal Turbo,3/2/18,
+https://www.dotabuff.com/assets/heroes/terrorblade-1946ff76f2c0d75d8c0471630eeeb6d3175a34d66b5959ad55818f68d5c12d92.jpg
+Terrorblade,Lost Match,Normal Turbo,4/4/14,
+https://www.dotabuff.com/assets/heroes/terrorblade-1946ff76f2c0d75d8c0471630eeeb6d3175a34d66b5959ad55818f68d5c12d92.jpg
 Io,Lost Match,Normal Turbo,0/4/4,
 https://www.dotabuff.com/assets/heroes/io-62d594cc0437102e035ebdeb01fea9f9b8a143c4f81b69f68ec0be6ce752d8a8.jpg
 Vengeful Spirit,Won Match,Ranked All Pick,7/3/15,
@@ -94,7 +98,3 @@ Lycan,Lost Match,Normal Single Draft,2/2/8,
 https://www.dotabuff.com/assets/heroes/lycan-8f5042606968158b5932b2249771cf69560cd4657eea87eafbca393e3a29d07b.jpg
 Windranger,Lost Match,Normal Turbo,3/3/5,
 https://www.dotabuff.com/assets/heroes/windranger-79254858435d6b2a365bdf336d02ab955f41b849498d51e315b166242bccb4ca.jpg
-Treant Protector,Lost Match,Normal Turbo,2/7/21,
-https://www.dotabuff.com/assets/heroes/treant-protector-a9dcbfd78c17fe007bf3ba5adf9d1279f14b16e6c5603bb4ca647110aa33b80d.jpg
-Hoodwink,Lost Match,Normal Turbo,6/5/18,
-https://www.dotabuff.com/assets/heroes/hoodwink-adae10f78c6dc60c858150c85a1836ff1b633570db76feac2088fc2da4a490fd.jpg

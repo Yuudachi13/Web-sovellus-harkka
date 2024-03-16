@@ -2,7 +2,7 @@ import express from 'express';
 import fetch from 'node-fetch';
 import cors from 'cors';
 
-const app = express();
+const app = express();  //perus serveri joka nyt käyttää tuota corssia välttääksemme erroria
 app.use(cors());
 app.get('/api/item/:itemId', async (req, res) => {
     const itemId = req.params.itemId;
